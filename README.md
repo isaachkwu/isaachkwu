@@ -1,7 +1,5 @@
 # Hi there, I'm Isaac 👋
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachkwu&show_icons=true&theme=radical)
-
 ## About Me
 
 - 🎓 Computer Science graduate from Hong Kong Polytechnic University
