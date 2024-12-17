@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Isaac 👋
 
-<!--
-**isaachkwu/isaachkwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachkwu&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science graduate from Hong Kong Polytechnic University
+- 💼 Software Engineer at The Laboratory of Data Discovery for Health
+- 💻 Passionate about open-source and contributing to the developer community
+- 🌱 Currently learning advanced algorithms and data structures
+- 🚀 Interested in AI, machine learning, and cloud computing
+
+## Skills
+
+- **Languages:** Python, JavaScript, Java, C
+- **Frameworks:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, AWS, Azure
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## Projects
+
+### [Project 1](https://github.com/isaachkwu/project1)
+A brief description of what Project 1 does and its purpose.
+
+### [Project 2](https://github.com/isaachkwu/project2)
+A brief description of what Project 2 does and its purpose.
+
+## Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/isaachkwu)
+- 📧 [Email](mailto:isaachkwu@gmail.com)
