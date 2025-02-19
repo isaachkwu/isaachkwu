@@ -1,4 +1,4 @@
-# Hi there, I'm Isaac 👋
+# Hi, I'm Isaac 👋
 
 ## About Me
 
