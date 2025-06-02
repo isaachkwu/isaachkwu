@@ -1,4 +1,4 @@
-# Hi, I'm Isaac 👋
+# Hi, I'm Isaac 
 
 ## About Me
 
@@ -6,11 +6,11 @@
 - 💼 Software Engineer at The Laboratory of Data Discovery for Health
 - 💻 Create websites and mobile applications
 - 🎨 Promote collaborative development experience 
-- 🚀 Interested in AI, machine learning, and cloud computing
+- 🚀 Interested in AI and cloud computing
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, JavaScript, Typescript, Java, C
+- **Frameworks:** React, Node.js, Django, Android
+- **Deployment:** Git, Docker, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
