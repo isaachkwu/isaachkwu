@@ -15,4 +15,4 @@
 - **Deployment:** Git, Docker, AWS (Solution Architect Associate), Terraform, Apache HTTP Server
 - **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
 
-Check out my [personal website](https://isaachkwu.github.io/) for more project details. Have a nice day!
+Check out my [personal website](https://isaachkwu.github.io/) for projects that I participated. Have a nice day!
