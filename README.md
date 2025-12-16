@@ -3,7 +3,6 @@
 ## About Me
 
 - 🎓 Computer science graduate from Hong Kong Polytechnic University
-- 💼 Software engineer at The Laboratory of Data Discovery for Health
 - 💻 Create end-to-end websites and mobile applications
 - 🎨 Promote collaborative development experience 
 - 🚀 Interested in AI, automation, and beautiful design
